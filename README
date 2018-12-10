@@ -1,0 +1,7 @@
+THis is a test respository. The commend codes will be included here:
+
+git config --global user.name "wangnanwei"
+git config --golbal user.email "wangnanwei@gmail.com"
+
+git init mytest
+cd mytest
